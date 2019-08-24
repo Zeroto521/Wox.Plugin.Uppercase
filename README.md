@@ -1,5 +1,5 @@
 # Wox.Plugin.Uppercase
 
-Capitalize the words.
+Capitalize letters.
 
 ![screenshot](/images/example.png)

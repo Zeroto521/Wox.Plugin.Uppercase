@@ -27,7 +27,7 @@ class Main(Wox):
 
             res_format.update(action)
         else:
-            res_format['Title'] = "Capitalize the words."
+            res_format['Title'] = "Capitalize letters"
             res_format['SubTitle'] = "Follow your words after the keyword."
 
         result.append(res_format)
