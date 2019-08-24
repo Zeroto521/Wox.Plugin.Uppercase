@@ -1,0 +1,12 @@
+{
+    "ID": "4f122527637145d296dd5eefa54fb880",
+    "ActionKeyword": "upper",
+    "Name": "Uppercase",
+    "Description": "Capitalize the words.",
+    "Author": "Zeroto521",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Zeroto521/Wox.Plugin.Uppercase",
+    "IcoPath": "images\\favicon.ico",
+    "ExecuteFileName": "main.py"
+}
